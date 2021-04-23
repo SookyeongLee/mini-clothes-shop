@@ -4,7 +4,7 @@
 #### 사용기술
 * HTML5  
 * CSS3
-* JavaScript(ES6+)
+* JavaScript(ES6+) / Json
 #### 구현기능사항
 * 메인화면, 로고 버튼 클릭 -> Show all clothtes
 * 스크롤링
